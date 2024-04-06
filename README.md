@@ -68,7 +68,6 @@ plt.axis('off')
 plt.show()
 ```
 
-Using the HoughLinesP(),detect line co-ordinates for every points in the images.Using For loop,draw the lines on the found co-ordinates.Display the image.
 ## Output
 
 ### Input image and grayscale image
